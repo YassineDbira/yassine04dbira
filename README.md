@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**yassine04dbira/yassine04dbira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⡀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   3aflou9@github ---------------------------------------------
+⠀⠀⠀⠀⠀⠠⢶⣿⣿⣿⣿⣿⣿⣿⠏⢳⣄⡀⠀⣀⣀⠀⠀⠀⠀⠀   . User: ............................................ 3aflou9
+⠘⣶⣤⣤⣤⣠⣤⣬⣿⣿⣿⣿⣿⣿⣤⣴⣿⣿⣍⣻⠁⠀⠀⠀⠀⠀   . Role: ....................... Multidisciplinary Engineer
+⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀   . Bio: ........................ The ultimate lifeform at 2 AM
+⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢀⡙⣿⣿⣿⠀⠀⠀⠀⠀   . Focus: .......................... Breaking & making things
+⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⠧⠸⢃⣹⣿⣃⡀⡠⣀⠀⠀
+⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠒⣄⣀⠜⢽⣷⣷⡇⠀⢀   . Stack.Systems: ............ C/C++, Rust, Linux, Low-Level
+⠀⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⢸⠋⣉⠀⡠⠊   . Stack.AI: ................. Python, PyTorch, LLMs, Agents
+⠀⠀⠀⠈⠉⠛⠛⠛⠛⠋⠉⣴⣿⣿⣿⣿⣿⣿⣧⣠⣿⣿⣦⣵⠁⠀   . Stack.Games: .............. Shaders, Graphics, Game Dev
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠻⣿⣿⣿⠙⠿⠿⡿⠟⠁⠀⠀   . Stack.Web: ................ TypeScript, React, Next, Node
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⣿⣿⣾⡿⢻⣿⡆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠒⣚⣿⣿⠃⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀   - Projects & Philosophy ------------------------------------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠉⣠⣿⡏⡄⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀   . Motto: .................... No wasted motion, high impact
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣍⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠀   . GitHub: .................................. github.com/3aflou9
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡜⠿⠿⠿⣇⠠⣼⣿⣿⣿⠀⠀⠀⠀⠀⠀   . Status: .................................... Always shipping
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣶⣶⣿⣇⢳⣉⣉⣉⡬⠆⠀⠀⢀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠰⠀⠈⣿⣿⡿⠿⣿⣿⣿⣦⠀⠀⠀⣽⡆   - System Stats ---------------------------------------------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠚⠒⠒⠛⢱⣁⢠⠈⠙⢻⠻⣧⣒⣊⣽⠇   . Chaos Control: ................................... Enabled
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠚⠓⠋⠀⠀⠀⠀⠀⠀   . Power Level: ......................................... > 9000
